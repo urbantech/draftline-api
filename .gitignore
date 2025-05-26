@@ -3,6 +3,29 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Local development
+.env
+.env.*
+!.env.example
+
+# Test database
+*.db
+*.sqlite
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
 # C extensions
 *.so
 
