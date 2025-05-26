@@ -1,0 +1,127 @@
+[
+{
+"title": "User Registration/Login",
+"body": "As a new user, I want to register/login so I can access my dashboard.",
+"labels": ["auth", "sprint-1", "priority-high"]
+},
+{
+"title": "Create Athlete Profile",
+"body": "As an athlete, I want to create a profile with my bio and sport type.",
+"labels": ["profile", "sprint-1", "priority-high"]
+},
+{
+"title": "Update Athlete Profile Info",
+"body": "As a returning user, I want to update my profile info anytime.",
+"labels": ["profile", "sprint-1", "priority-medium"]
+},
+{
+"title": "Add/Edit NIL Deals",
+"body": "As an athlete, I want to add/edit deals with brand name, amount, and dates.",
+"labels": ["nil-deals", "sprint-1", "priority-high"]
+},
+{
+"title": "Upload NIL Contract Files",
+"body": "As an athlete, I want to upload my NIL contract files to the deal.",
+"labels": ["nil-deals", "sprint-2", "priority-medium"]
+},
+{
+"title": "Track Deliverables with Due Dates",
+"body": "As an athlete, I want to track deliverables with deadlines and status.",
+"labels": ["deliverables", "sprint-2", "priority-high"]
+},
+{
+"title": "Show Overdue Deliverables",
+"body": "As a user, I want to see overdue deliverables highlighted in red.",
+"labels": ["deliverables", "sprint-2", "priority-medium"]
+},
+{
+"title": "Connect Strava Account",
+"body": "As an athlete, I want to connect my Strava account securely.",
+"labels": ["strava", "sprint-3", "priority-high"]
+},
+{
+"title": "Show Ride Stats and Feed",
+"body": "As a user, I want to see a feed of my latest rides and stats.",
+"labels": ["strava", "sprint-3", "priority-high"]
+},
+{
+"title": "Display Milestones in Active Deals",
+"body": "As a brand, I want to view ride milestones hit during a contract period.",
+"labels": ["strava", "sprint-4", "priority-medium"]
+},
+{
+"title": "Schedule Content for NIL Deals",
+"body": "As an athlete, I want to schedule posts tied to deals.",
+"labels": ["calendar", "sprint-4", "priority-high"]
+},
+{
+"title": "Set Deliverable Reminders",
+"body": "As an athlete, I want reminders for upcoming deadlines.",
+"labels": ["calendar", "sprint-4", "priority-medium"]
+},
+{
+"title": "AI Post Suggestions",
+"body": "As a user, I want an AI to suggest post captions and hashtags.",
+"labels": ["ai", "sprint-5", "priority-low"]
+},
+{
+"title": "Log NIL Payments",
+"body": "As an athlete, I want to log payments per deal with method and date.",
+"labels": ["payments", "sprint-5", "priority-high"]
+},
+{
+"title": "Show Income by Brand/Category",
+"body": "As a user, I want to see total income by brand and category.",
+"labels": ["payments", "sprint-5", "priority-high"]
+},
+{
+"title": "Export Tax Summary",
+"body": "As a user, I want to export my income for tax prep.",
+"labels": ["payments", "sprint-5", "priority-medium"]
+},
+{
+"title": "Connect Google Analytics",
+"body": "As an athlete, I want to connect GA4 to see site traffic.",
+"labels": ["analytics", "sprint-6", "priority-high"]
+},
+{
+"title": "Track UTM Links",
+"body": "As a user, I want to track UTM links for brand campaigns.",
+"labels": ["analytics", "sprint-6", "priority-medium"]
+},
+{
+"title": "Display Traffic & ROI for Sponsors",
+"body": "As a brand, I want to see ROI from athlete campaigns.",
+"labels": ["analytics", "sprint-6", "priority-medium"]
+},
+{
+"title": "Create Public Athlete Profile Page",
+"body": "As an athlete, I want a public profile page with my bio and stats.",
+"labels": ["public-page", "sprint-7", "priority-high"]
+},
+{
+"title": "Embed Strava + Sponsor Content",
+"body": "As a user, I want to embed my Strava feed and sponsor logos.",
+"labels": ["public-page", "sprint-7", "priority-medium"]
+},
+{
+"title": "Add NIL Booking Form",
+"body": "As a brand, I want to submit an NIL offer via the athlete's public page.",
+"labels": ["public-page", "sprint-7", "priority-high"]
+},
+{
+"title": "Brand Dashboard with Filters",
+"body": "As a brand, I want to search for athletes by sport and audience.",
+"labels": ["brand-dashboard", "sprint-8", "priority-high"]
+},
+{
+"title": "Offer Builder for Brands",
+"body": "As a brand, I want to build/send NIL offer packages to athletes.",
+"labels": ["brand-dashboard", "sprint-8", "priority-high"]
+},
+{
+"title": "Track Offer Status",
+"body": "As a brand, I want to track offer status and past deals.",
+"labels": ["brand-dashboard", "sprint-8", "priority-medium"]
+}
+]
